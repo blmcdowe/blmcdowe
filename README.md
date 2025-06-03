@@ -12,7 +12,7 @@ I specialize in using tools like **Playwright**, **Selenium**, and **Pytest** to
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages & Tools:**  
   Python · JavaScript · HTML/CSS · Bash · Git · GitHub Actions  
