@@ -1,6 +1,6 @@
 # Hi, I'm Byron McDowell
 
-Aspiring **QA Automation Engineer** | Data Analytics . Python . SQL . R
+**QA Automation Engineer** | Data Analytics . Python . SQL . R
 
 ---
 
