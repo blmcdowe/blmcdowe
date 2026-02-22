@@ -6,13 +6,13 @@
 
 ## About Me
 
-I’m a QA Automation Engineer with a strong foundation in data analytics and systems thinking.
+I’m a QA Automation Engineer and Data Analytics professional who bridges software testing with data validation.
 
-I specialize in building scalable automated test frameworks using Playwright, Selenium, and Pytest, while leveraging SQL and data analysis to validate backend systems and ensure data integrity.
+I build automation frameworks using Python, Playwright, and Selenium, while applying SQL, PostgreSQL, and analytical tools to validate backend systems and extract meaningful insights.
 
-My approach to quality goes beyond UI testing — I analyze trends, validate databases, and use data to improve reliability and performance. With a background in engineering and operational analytics, I bring structured problem-solving, root-cause analysis, and measurable improvement into every project.
+My background in engineering and operational performance tracking enables me to approach quality from a systems perspective — ensuring not just that applications work, but that the data behind them is accurate, reliable, and actionable.
 
-I’m passionate about building systems that are not only functional, but verifiable, scalable, and data-backed.
+I specialize in data-driven quality engineering.
 
 ---
 
