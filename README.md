@@ -52,15 +52,15 @@ Visit my [QA Portfolio Repository](https://github.com/blmcdowe/qa-portfolio) to 
 
 - Find a long-term QA/Data Analytics team where I can contribute immediately through automation, structured test design, and data-driven validation while continuing to grow alongside experienced engineers
 
--Deepen my expertise in scalable automation frameworks and CI/CD integration within real production environments
+- Deepen my expertise in scalable automation frameworks and CI/CD integration within real production environments
 
--Expand into API, integration, and data validation testing to ensure reliability across backend systems and data pipelines
+- Expand into API, integration, and data validation testing to ensure reliability across backend systems and data pipelines
 
--Apply analytical thinking and data analysis to investigate defects, support root-cause analysis, and strengthen overall system quality
+- Apply analytical thinking and data analysis to investigate defects, support root-cause analysis, and strengthen overall system quality
 
--Contribute to improving test architecture, release confidence, and quality standards across the SDLC
+- Contribute to improving test architecture, release confidence, and quality standards across the SDLC
 
--Grow into a QA Automation Engineer/ Data Analyst who bridges testing and data to support modern, data-driven applications
+- Grow into a QA Automation Engineer/ Data Analyst who bridges testing and data to support modern, data-driven applications
 
 ---
 
