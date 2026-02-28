@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a QA Automation Engineer and Data Analytics professional who bridges software testing with data validation.
+I’m a QA Automation Engineer specialist/ Data enthusiast, who bridges software testing with data validation.
 
 I build automation frameworks using Python, Playwright, and Selenium, while applying SQL, PostgreSQL, and analytical tools to validate backend systems and extract meaningful insights.
 
@@ -50,10 +50,17 @@ Visit my [QA Portfolio Repository](https://github.com/blmcdowe/qa-portfolio) to 
 
 ## Goals
 
-- Master advanced automation frameworks and CI pipelines
-- Learn API testing with Postman and REST Assured
-- Contribute to open-source QA projects
-- Build reusable QA utilities and CLI tools
+- Find a long-term QA/Data Analytics team where I can contribute immediately through automation, structured test design, and data-driven validation while continuing to grow alongside experienced engineers
+
+-Deepen my expertise in scalable automation frameworks and CI/CD integration within real production environments
+
+-Expand into API, integration, and data validation testing to ensure reliability across backend systems and data pipelines
+
+-Apply analytical thinking and data analysis to investigate defects, support root-cause analysis, and strengthen overall system quality
+
+-Contribute to improving test architecture, release confidence, and quality standards across the SDLC
+
+-Grow into a QA Automation Engineer/ Data Analyst who bridges testing and data to support modern, data-driven applications
 
 ---
 
@@ -64,4 +71,4 @@ Visit my [QA Portfolio Repository](https://github.com/blmcdowe/qa-portfolio) to 
 
 ---
 
-_"Testing isn’t just about finding bugs — it's about building trust in software."_  
+_“Testing with data is testing with confidence — turning insights into trust.”_
