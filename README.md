@@ -32,19 +32,6 @@ I specialize in data-driven quality engineering.
 - **Dev & CI/CD Tools:**  
   GitHub · GitHub Projects · Jira · Postman · ADB · Xcode · Android Studio
 
----
-
-## Featured Portfolio
-
-Visit my [QA Portfolio Repository](https://github.com/blmcdowe/qa-portfolio) to explore my test automation projects:
-
-- **[Hacker News UI Tests](https://github.com/blmcdowe/qa-portfolio/tree/main/projects/hacker-news-ui-tests)** – Playwright test suite for validating sorting and UI functionality
-- **[Selenium Login Tests](https://github.com/blmcdowe/qa-portfolio/tree/main/projects/selenium-login-tests)** – Automates login flows using Selenium WebDriver
-- **[API Test Template](https://github.com/blmcdowe/qa-portfolio/tree/main/projects/api-tests-template)** – Boilerplate for REST API test automation (coming soon)
-
-### Data Projects
-- **PostgreSQL SQL Practice** — Database schema + query examples
-- **Data Analytics Capstone** — Data exploration & visualization project
 
 ---
 
